@@ -113,8 +113,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- Maintainer: [mdranju](https://github.com/mdranju)
-- Issues: [Report bugs or suggest features](https://github.com/mdranju/careerforge-ai/issues)
+- Email: hamad290k@gmail.com
 - Questions: Reach out via GitHub Discussions.
 
 Thank you for using CareerForge AI – let's forge your future together! 🚀
